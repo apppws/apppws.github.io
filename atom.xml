@@ -37,4 +37,28 @@
     
   </entry>
   
+  <entry>
+    <title>background属性</title>
+    <link href="http://yoursite.com/2017/03/10/my-blog/"/>
+    <id>http://yoursite.com/2017/03/10/my-blog/</id>
+    <published>2017-03-10T03:19:04.000Z</published>
+    <updated>2018-11-26T07:52:11.428Z</updated>
+    
+    <content type="html"><![CDATA[<p>##asfsdafas</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;##asfsdafas&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="css" scheme="http://yoursite.com/tags/css/"/>
+    
+  </entry>
+  
 </feed>
